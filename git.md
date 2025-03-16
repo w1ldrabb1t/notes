@@ -2,7 +2,7 @@
 Note: do not use `sudo` for this
 
 git config --global user.name "w1ldrabb1t"
-git config --global user.email "thewildrabbit2000@gmail.com"
+git config --global user.email "email here"
 
 # Add a remote repo
 
