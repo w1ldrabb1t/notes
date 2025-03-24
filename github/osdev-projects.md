@@ -20,4 +20,4 @@ https://github.com/skift-org/skift
 - Driven by a dissatisfaction with the fragmented user experiences prevalent in contemporary operating systems, SkiftOS strives for deep integration and a cohesive aesthetic.
 - This project is a labor of love—an artistic pursuit rather than a commercial product.
 - Written in C++
-
+- https://docs.skiftos.org/building.html
